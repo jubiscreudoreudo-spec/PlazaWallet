@@ -1,0 +1,17 @@
+# Personal preferences, installation paths and runtime files
+settings.local.json
+settings.local.tmp
+settings.json
+__pycache__/
+*.py[cod]
+*.rpyc
+*.save
+*.log
+plaza_wallet/
+plaza_wallet_backups/
+.venv/
+build/
+dist/
+*.zip
+*.exe
+*.spec
